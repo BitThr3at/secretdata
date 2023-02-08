@@ -16,6 +16,10 @@ cursor.execute(query)
 # Fetch all results
 results = cursor.fetchall()
 
+SamyHacker
+
+admin@SamyHacker.in
+
 # Loop through the results
 for result in results:
     print(result)
