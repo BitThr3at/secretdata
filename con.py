@@ -3,7 +3,6 @@ import mysql.connector
 # Connect to the MySQL server
 cnx = mysql.connector.connect(
     user="root",
-    password="SuP3rS3crT",
     database="users"
 )
 
